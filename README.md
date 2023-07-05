@@ -2,11 +2,12 @@
 <h3 align="center">Desenvolvedor de Software/Software Developer</h3>
 <h2 align="center">Linguagens e Ferramentas:</h2>
 <h3>Front-End</h3>
-<p>React, SASS/SCSS</p>
+<p>Básico: React, SASS/SCSS</p>
 <h3>Back-End</h3>
-<p>Java(Spring), C# e PHP</p>
+<p>Básico: Java(Spring), C# e PHP</p>
 <h3>Outros</h3>
-<p>Figma, AWS, Docker</p>
+<p>Intermediário: Figma</p>
+<p>Básico: AWS, Docker</p>
 <div align="center">
 <h2>Linguagens mais usadas nos meus repositórios</h2>
   
