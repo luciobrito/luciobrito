@@ -1,11 +1,11 @@
 <h1 align="center">Lúcio Brito</h1>
 <h3 align="center">Desenvolvedor de Software/Software Developer</h3>
 <h2 align="center">Linguagens e Ferramentas:</h2>
-<h4>Front-End</h4>
+<h3>Front-End</h3>
 <p>React, SASS/SCSS</p>
-<h4>Back-End</h4>
+<h3>Back-End</h3>
 <p>Java(Spring), C# e PHP</p>
-<h4>Outros</h4>
+<h3>Outros</h3>
 <p>Figma, AWS, Docker</p>
 <div align="center">
 <h2>Linguagens mais usadas nos meus repositórios</h2>
